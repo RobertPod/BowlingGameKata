@@ -2,3 +2,18 @@
 target/
 
 *.iml
+
+*.class
+*.log
+
+.cache
+.history
+.lib/
+dist/*
+.tmp/
+.logs
+.gradle
+build/
+gradlew
+gradlew.bat
+airomem/
